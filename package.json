@@ -1,0 +1,29 @@
+{
+  "name": "postcss_demo",
+  "version": "0.0.0",
+  "description": "test postcss project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:anaumov/postcss_demo.git"
+  },
+  "keywords": [
+    "postcss"
+  ],
+  "author": "Alexey Naumov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anaumov/postcss_demo/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-postcss": "~5.1.8",
+    "autoprefixer-core": "~5.2.0",
+    "postcss-simple-vars": "~0.3.0",
+    "cssnext": "~1.7.0",
+    "cssnano": "~1.4.3"
+  }
+}
